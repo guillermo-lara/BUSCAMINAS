@@ -18,5 +18,9 @@ public class main
     {
         InicioSesion Comienzo = new InicioSesion();
     }
-    
+    //PARA ABRIR:
+    //TEAM -> GIT -> CLONE
+    //PARA SUBIR:
+    //TEAM -> COMMIT
+    //TEAM -> PUSH
 }
