@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 public class main 
 {
-    public static ArrayList<Jugador> listaJ ;
+    public static ArrayList<Clases.Jugador> listaJ ;
     public static ArrayList<Partida> listaP ;
     public static File f = new File("C:\\BUSCAMINAS\\note");
 
