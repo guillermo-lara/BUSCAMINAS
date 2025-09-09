@@ -1,0 +1,9 @@
+A parte de lo que se ha explicado en la Rubrica se necesita saber:
+
+1º Solo hay un Administrador. Nombre: "Carlos" Contraseña: "POO".
+
+2º En los binarios pasados hay 2 Jugadores "Guille" y "Antonio" ambos con contraseña "1234".
+
+3º Nada más se ejecuta el .jar se genera un Jugador "Antonio" con contraseña "1234".
+
+4º Si se desea ver los binarios que le hemos pasado se tiene que se sustituir por los que ya se habían creado. 
